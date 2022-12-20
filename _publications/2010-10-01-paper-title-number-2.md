@@ -4,11 +4,11 @@ collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-12-15
-venue: 'IEEE Transaction on Intelligent Transportation Systems'
+venue: 'Mathematics, Special Issue: Advances in Machine Learning Applied to Intelligent Systems and Data Analytics.'
 paperurl: 'https://doi.org/10.3390/math10122039'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+On the basis of our previous work in IEEE ITS, this paper developed a auto-selector trained by Reinforcement Learning. A incentive Mechanism for Federated Meta Learning is left for future work.
 
 [Download paper here](https://quhaoh233.github.io/quhaoh.github.io/files/mathematics.pdf)
 
