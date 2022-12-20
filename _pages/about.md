@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,20 +10,24 @@ redirect_from:
 
 Welcome! This is the front page of my personal websites. My research interest includes data analysis and advanced machine learning (i.e., Federated Meta-learning) on transportation research. I have authored or co-authored 7 journal and conference papers. Currently, I work as a research assistant at Sun Yat-sen University and look for PhD position.
 
-Education
-======
-1. B.E. in Transportation Engineering, School of Intelligent Systems Engineering, Sun Yat-sen University, 2019.
-2. M.E. in Transportation Planning and Management, School of Intelligent Systems Engineering, Sun Yat-sen University, 2022.
-
-Working Topics
+Ongoing Research Topics
 ======
 1. Adaptive changes of spatio-temporal charging behaviours of electric vehicles entering the post-COVID-19 era
 2. Spatio-temporal Prediction
 3. Meta-learning for travel mode choice modeling
 
-
-A data-driven personal website
+Publications
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+1. Jun Li, **Haohao Qu**, and Linlin You*. "An Integrated Approach for the Near Real-time Parking Occupancy Prediction." IEEE Transactions on Intelligent Transportation Systems. 2022. Accepted
+2. **Haohao Qu**, Sheng Liu, Jun Li*, Yuren Zhou, and Rui Liu. "Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction. " Mathematics 2022, 10, 2039. https://doi.org/10.3390/math10122039
+3. **Haohao Qu**, Sheng Liu, Zihan Guo, Linlin You, and Jun Li*. "Improving Parking Occupancy Prediction in Poor Data Conditions through Customization and Learning to Learn.".  Proceeding of the 15th International Conference on Knowledge Science, Engineering and Management (KSEM 2022). https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13
+4. Shenglv Zhang, Yuren Zhou, **Haohao Qu**, Yiting Zhu, and Linlin You*. "Reinforcement Learning Based Incentive Mechanism for Federated Meta Learning: A Game-Theoretic Perspective."  Proceeding of the 34th International Conference on Tool with Artificial Intelligence (ICTAI 2022). 
+5. Sheng Liu, **Haohao Qu**, Qiyang Chen, Rui Liu, and Linlin You*. "AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation." Processing of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022).
+6. Qiyang Chen, Sheng Liu, **Haohao Qu**, Rui Zhu, Linlin You*. "TWAFR-GRU: An Integrated Model for Real-time Charging Station Occupancy Prediction." Processing of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022).
+7. Linlin You, Qiyang Chen, Sheng Liu, **Haohao Qu**, Chau Yuen*. "AF2L: An Asynchronous Federated Learning to Learn Mechanism for the Occupancy Prediction of Charging Stations with Small Samples." IEEE Internet of Things Journal. Under Review.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Education
+======
+1. B.E. in Transportation Engineering, School of Intelligent Systems Engineering, Sun Yat-sen University, 2019.
+2. M.E. in Transportation Planning and Management, School of Intelligent Systems Engineering, Sun Yat-sen University, 2022.
+
