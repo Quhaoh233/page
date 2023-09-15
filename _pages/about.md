@@ -12,7 +12,7 @@ Welcome! This is the front page of my personal websites!
 
 Ongoing Research Topics
 ======
-1. LLMs as Agents
+1. LLMs for Rec
 2. Graph Neural Networks
 
 Publications
