@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haohao Qu"
-  avatar           : "haohao.jpeg"
+  avatar           : "images/haohao.jpeg"
   bio              : "Data Analysis, Machine Learning, Smart Cities"
   location         : "Hong Kong, China"
   employer         : "Dr. Wenqi Fan (Chief) and Prof. Qing Li (Co)"
