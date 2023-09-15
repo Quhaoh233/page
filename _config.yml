@@ -83,11 +83,11 @@ author:
   name             : "Haohao Qu"
   avatar           : "haohao.png"
   bio              : "Data Analysis, Machine Learning, Smart Cities"
-  location         : "Shenzhen, China"
-  employer         :
+  location         : "Hong Kong, China"
+  employer         : "Dr. Wenqi Fan (Chief) and Prof. Qing Li (Co)"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XRAXqJgAAAAJ"
+  email            : "Haohao.qu@connect.polyu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/Quhaoh233/Quhaoh233"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-7129-8586"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
