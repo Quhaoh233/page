@@ -11,10 +11,10 @@ title                    : "Mr."
 title_separator          : "-"
 name                     : &name "Haohao Qu"
 description              : &description ":)"
-url                      : "https://quhaoh233.github.io/quhaoh" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://quhaoh233.github.io/page" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haohao Qu"
-  avatar           : "images/haohao.jpeg"
+  avatar           : "images/haohao_v2.png"
   bio              : "Data Analysis, Machine Learning, Smart Cities"
   location         : "Hong Kong, China"
   employer         : "Dr. Wenqi Fan (Chief) and Prof. Qing Li (Co)"
