@@ -1,3 +1,5 @@
+---
+collection: publications
 + [**A Physics-informed and Attention-based Graph Learning Approach for Regional Electric Vehicle demand Prediction**](https://arxiv.org/abs/2309.05259)
   <br> Haohao Qu, Haoxuan Kuang, Rui Zhu, Jun Li, Linlin You*.
   <br> arXiv:2309.05259
@@ -5,3 +7,4 @@
   <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
                 filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/PIAD_Overview.png' alt="sym" width="400"></div></div>
   <br>
+---
