@@ -24,7 +24,7 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 + Recommender Systems (RecSys)
 + Intelligent Transportation Systems (ITS)
 
-## Publications <a href='https://scholar.google.com/citations?user=XRAXqJgAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+## Publications <a href='https://scholar.google.com/citations?user=XRAXqJgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 + [The impact of electricity prices on public electric vehicle charging demand.] **Haohao Qu**, Haoxuan Kuang, Linlin You, Rui Zhu, Wenqi Fan, Jun Li*. Transporation Research Part-D: Transport and Environment, under review.
 + [A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction.](https://arxiv.org/abs/2309.05259). **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*. Preprint arXiv:2309.05259; IEEE TITS, under review.
@@ -42,11 +42,11 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 <br>&nbsp;&nbsp;&nbsp;Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 
-+ <img align="left" decoding="async" src="/images/SYSU_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;M.Eng. in Transportation Planning and Management | <small>2019.09 - 2022.06</small>
++ <img align="left" decoding="async" src="/images/SYSU_logo.jpg" width="9%"> &nbsp;&nbsp;&nbsp;M.Eng. in Transportation Planning and Management | <small>2019.09 - 2022.06</small>
 <br>&nbsp;&nbsp;&nbsp;School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm) and [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
 
-+ <img align="left" decoding="async" src="/images/SYSU_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;B.Eng. in Transportation Engineering | <small>2015.09 - 2019.06</small>
++ <img align="left" decoding="async" src="/images/SYSU_logo.jpg" width="9%"> &nbsp;&nbsp;&nbsp;B.Eng. in Transportation Engineering | <small>2015.09 - 2019.06</small>
 <br>&nbsp;&nbsp;&nbsp;School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm) and [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
 
