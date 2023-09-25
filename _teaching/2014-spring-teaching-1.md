@@ -1,20 +1,9 @@
 ---
-title: "Teaching experience 1"
+title: "ARTIFICIAL INTELLIGENCE CONCEPTS (COMP5511_20231_A)"
 collection: teaching
-type: "Undergraduate course"
+type: "Postgraduate course (Teaching Assistant)"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "The Hong Kong Polytechnic University, Department of Computing"
+date: 2023.09-2023.12
+location: "Hong Kong, China"
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
