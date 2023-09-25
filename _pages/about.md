@@ -1,35 +1,57 @@
 ---
 permalink: /
-title: "Academic personal websites"
-excerpt: "About me"
+title: "About Me"
+excerpt: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-Welcome! This is the front page of my personal websites!
-
-Ongoing Research Topics
-======
-1. LLMs for Rec
-2. Graph Neural Networks
-
-Publications
-======
-1. **Haohao Qu**, Haoxuan Kuang, Linlin You, Rui Zhu, Wenqi Fan, Jun Li*. "The impact of electricity prices on public electric vehicle behavior." Transportation Research Part-D. Under Review.
-2. **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*. "A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction." IEEE Transaction on Intelligent Systems Engineering. Under Review. https://arxiv.org/abs/2309.05259
-3. Jun Li, **Haohao Qu**, and Linlin You*. "An Integrated Approach for the Near Real-time Parking Occupancy Prediction." IEEE Transactions on Intelligent Transportation Systems. 2022. https://ieeexplore.ieee.org/abstract/document/9997228
-4. **Haohao Qu**, Sheng Liu, Jun Li*, Yuren Zhou, and Rui Liu. "Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction. " Mathematics 2022, 10, 2039. https://doi.org/10.3390/math10122039
-5. **Haohao Qu**, Sheng Liu, Zihan Guo, Linlin You, and Jun Li*. "Improving Parking Occupancy Prediction in Poor Data Conditions through Customization and Learning to Learn.".  Proceeding of the 15th International Conference on Knowledge Science, Engineering and Management (KSEM 2022). https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13
-6. Shenglv Zhang, Yuren Zhou, **Haohao Qu**, Yiting Zhu, and Linlin You*. "Reinforcement Learning Based Incentive Mechanism for Federated Meta Learning: A Game-Theoretic Perspective."  Proceeding of the 34th International Conference on Tool with Artificial Intelligence (ICTAI 2022). 
-7. Sheng Liu, **Haohao Qu**, Qiyang Chen, Rui Liu, and Linlin You*. "AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation." Processing of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022).
-8. Qiyang Chen, Sheng Liu, **Haohao Qu**, Rui Zhu, Linlin You*. "TWAFR-GRU: An Integrated Model for Real-time Charging Station Occupancy Prediction." Processing of the 19th IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2022).
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 
-Education
-======
-1. B.E. in Transportation Engineering, School of Intelligent Systems Engineering, Sun Yat-sen University, 2015-2019.
-2. M.E. in Transportation Planning and Management, School of Intelligent Systems Engineering, Sun Yat-sen University, 2019-2022.
-3. Ph.D., Department of Computing, The Hong Kong Polytechnic University, 2023-
+Welcome to my personal page! I am currently a Ph.D. student in the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Dr. Wenqi Fan (chief)](https://wenqifan03.github.io/) and [Prof. Qing Li (co)](https://www4.comp.polyu.edu.hk/~csqli/).
+
+## Research Interest
+
++ Graph Neural Networks (GNNs)
++ Natural Language Processing (NLP)
++ Recommender Systems (RecSys)
++ Intelligent Transportation Systems (ITS)
+ 
+## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
++ [**A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction**](https://arxiv.org/abs/2309.05259)
+  <br> **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*
+  <br> arXiv:2309.05259
+  <br> <a href="https://arxiv.org/abs/2309.05259" class="button">arXiv</a> <a href="/files/KSEM.pdf" class="button">PDF</a> 
+  <div class='paper-box-image' style='-webkit-filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); 
+                filter: drop-shadow(10px 10px 10px rgba(0,0,0,.5)); margin-top: 5px;'><div><div class="badge">ArXiv</div><img src='/images/PIAD_Overview.png' alt="sym" width="400"></div></div>
+  <br>
+     
+
+## Education
+
++ <img align="left" decoding="async" src="/images/polyu_logo.png" width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
+<br>&nbsp;&nbsp;&nbsp;The Hong Kong Polytechnic University
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+
+
+## Working Experience
+
++ Research Assistant | <small>2022.08 - 2023.08</small> | <small>China</small> 
+ <br>School of Intelligent Systems Engineering, Sun Yat-sen University
+ <br>Advisor: [Prof. Xiaojun Tan (chief)](https://ise.sysu.edu.cn/teacher/teacher01/1400778.htm) and [Associate Prof. Jun Li (co)](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm)
+ 
+ 
+ 
+ 
+ 
+
+
 
