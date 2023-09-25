@@ -23,8 +23,8 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 + Natural Language Processing (NLP)
 + Recommender Systems (RecSys)
 + Intelligent Transportation Systems (ITS)
- 
-## Publications <a href='https://scholar.google.com/citations?user=x8cAD_EAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+
+## Publications <a href='https://scholar.google.com/citations?user=XRAXqJgAAAAJ&hl=zh-CN&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
 + [**A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction**](https://arxiv.org/abs/2309.05259)
   <br> **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*
