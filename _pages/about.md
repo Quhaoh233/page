@@ -38,15 +38,15 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 
 ## Education
 
-+ <img align="left" decoding="async" src='/images/polyu_logo.png' alt=polyu_logo width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
++ <img align="left" decoding="async" src='~/images/polyu_logo.png' alt=polyu_logo width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 
-+ <img align="left" decoding="async" src='/images/SYSU_logo.jpg' alt=sysu_logo width="9%"> &nbsp;&nbsp;&nbsp;M.Eng. in Transportation Planning and Management | <small>2019.09 - 2022.06</small>
++ <img align="left" decoding="async" src='~/images/SYSU_logo.jpg' alt=sysu_logo width="9%"> &nbsp;&nbsp;&nbsp;M.Eng. in Transportation Planning and Management | <small>2019.09 - 2022.06</small>
 <br>&nbsp;&nbsp;&nbsp;School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm) and [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
 
-+ <img align="left" decoding="async" src='/images/SYSU_logo.jpg' alt=sysu_logo width="9%"> &nbsp;&nbsp;&nbsp;B.Eng. in Transportation Engineering | <small>2015.09 - 2019.06</small>
++ <img align="left" decoding="async" src='~/images/SYSU_logo.jpg' alt=sysu_logo width="9%"> &nbsp;&nbsp;&nbsp;B.Eng. in Transportation Engineering | <small>2015.09 - 2019.06</small>
 <br>&nbsp;&nbsp;&nbsp;School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm) and [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
 
