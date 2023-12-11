@@ -38,7 +38,7 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 
 ## Education
 
-+ <img align="left" decoding="async" src='/images/polyu_logo.png' alt=polyu_logo width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
++  ![polyu_logo](https://github.com/Quhaoh233/page/assets/49360609/b063a3ae-8222-4a7c-b26a-486012ee91a3) &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 
@@ -57,7 +57,8 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
  <br>Advisor: [Prof. Xiaojun Tan](https://ise.sysu.edu.cn/teacher/teacher01/1400778.htm) and [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm)
  
  
- 
+
+
  
  
 
