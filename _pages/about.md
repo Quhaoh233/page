@@ -26,7 +26,6 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 
 ## Publications <a href='https://scholar.google.com/citations?user=XRAXqJgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
-+ [The impact of electricity prices on public electric vehicle charging demand.] **Haohao Qu**, Haoxuan Kuang, Linlin You, Rui Zhu, Wenqi Fan, Jun Li*. Transporation Research Part-D: Transport and Environment, under review.
 + [A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction.](https://arxiv.org/abs/2309.05259) **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*. Preprint arXiv:2309.05259; IEEE TITS, under review.
 + [Reinforcement Learning Based Incentive Mechanism for Federated Meta Learning: A Game-Theoretic Perspective.](https://ieeexplore.ieee.org/abstract/document/10098009) Shenglv Zhang, Yuren Zhou, **Haohao Qu**, Yiting Zhu, Linlin You*. Proceedings of the IEEE 34th International Conference on Tools with Artificial Intelligence (ICTAI 2022).
 + [AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation.](https://ieeexplore.ieee.org/abstract/document/10189596) Sheng Liu, **Haohao Qu**, Qiyang Chen, Weitao Jian, Rui Liu, Linlin You*. Proceedings of the 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (UIC 2022).
