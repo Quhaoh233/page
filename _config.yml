@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Haohao Qu"
-  avatar           : "haohao_v2.png"
+  avatar           : "haohao_head.png"
   bio              : "Graph Neural Network, Recommender Systems, Smart Cities"
   location         : "Hong Kong, China"
   employer         : "Dr. Wenqi Fan (Chief); Prof. Qing Li (Co)"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Quhaoh233/Quhaoh233"
+  github           : "https://github.com/Quhaoh233/"
   google_plus      :
   keybase          :
   instagram        :
