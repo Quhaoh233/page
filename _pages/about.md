@@ -19,15 +19,18 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 
 ## Research Interest
 
++ Large Language Models (LLMs)
 + Graph Neural Networks (GNNs)
-+ Natural Language Processing (NLP)
 + Recommender Systems (RecSys)
 + Intelligent Transportation Systems (ITS)
 
 ## Publications <a href='https://scholar.google.com/citations?user=XRAXqJgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
 
++ SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation. **Haohao Qu**, Yifeng Zhang, Liangbo Ning, Wenqi Fan, Qing Li. Preprint arXiv.
++ [A Survey of Mamba.](https://arxiv.org/pdf/2408.01129) **Haohao Qu**, Liangbo Ning, An Rui, Wenqi Fan, Tyler Derr, Hui Liu, Xin Xu, Qing Li. Preprint arXiv.
++ [TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation.](https://arxiv.org/pdf/2406.10450) **Haohao Qu**, Wenqi Fan, Zihuai Zhao, Qing Li. Preprint arXiv.
 + [FMGCN: Federated Meta Learning-augmented Graph Convolutional Network for EV Charging Demand Forecasting.](https://ieeexplore.ieee.org/abstract/document/10472318) Linlin You, Qiyang Chen, **Haohao Qu**, Rui Zhu, Jinyue Yan, Paolo Santi, Carlo Ratti. IEEE Internet of Things Journal (2024), doi: 10.1109/JIOT.2024.3369655.
-+ [A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction.](https://arxiv.org/abs/2309.05259) **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*. Preprint arXiv:2309.05259; IEEE TITS, under review.
++ [A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction.](https://arxiv.org/abs/2309.05259) **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*. Preprint arXiv:2309.05259; IEEE TITS, doi: 10.1109/TITS.2024.3401850.
 + [Reinforcement Learning Based Incentive Mechanism for Federated Meta Learning: A Game-Theoretic Perspective.](https://ieeexplore.ieee.org/abstract/document/10098009) Shenglv Zhang, Yuren Zhou, **Haohao Qu**, Yiting Zhu, Linlin You*. Proceedings of the IEEE 34th International Conference on Tools with Artificial Intelligence (ICTAI 2022).
 + [AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation.](https://ieeexplore.ieee.org/abstract/document/10189596) Sheng Liu, **Haohao Qu**, Qiyang Chen, Weitao Jian, Rui Liu, Linlin You*. Proceedings of the 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (UIC 2022).
 + [TWAFR-GRU: An Integrated Model for Real-time Charging Station Occupancy Prediction.](https://ieeexplore.ieee.org/abstract/document/10189531) Qiyang Chen, Sheng Liu, **Haohao Qu**, Rui Zhu, Linlin You*. Proceedings of the 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (UIC 2022).
@@ -38,15 +41,15 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 
 ## Education
 
-+  <img align="left" decoding="async" src='/images/polyu_logo.png' alt=sysu_logo width="9%"> &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
++ &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 
-+ <img align="left" decoding="async" src='/images/SYSU_logo.jpg' alt=sysu_logo width="9%"> &nbsp;&nbsp;&nbsp;M.Eng. in Transportation Planning and Management | <small>2019.09 - 2022.06</small>
++ &nbsp;&nbsp;&nbsp;M.Eng. in Transportation Planning and Management | <small>2019.09 - 2022.06</small>
 <br>&nbsp;&nbsp;&nbsp;School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm) and [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
 
-+ <img align="left" decoding="async" src='/images/SYSU_logo.jpg' alt=sysu_logo width="9%"> &nbsp;&nbsp;&nbsp;B.Eng. in Transportation Engineering | <small>2015.09 - 2019.06</small>
++ &nbsp;&nbsp;&nbsp;B.Eng. in Transportation Engineering | <small>2015.09 - 2019.06</small>
 <br>&nbsp;&nbsp;&nbsp;School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm) and [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
 
