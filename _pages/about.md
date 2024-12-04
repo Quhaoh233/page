@@ -26,7 +26,7 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 
 ## Publications ![](https://img.shields.io/endpoint?url=https%3A%2F%2Fgoogle-scholar-badge.replit.app%2Fcitations%3Fuser%3DXRAXqJgAAAAJ)
 
-
++ [How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](https://arxiv.org/pdf/2410.05298) Xinnan Dai, **Haohao Qu**, Yifei Shen, Bohang Zhang, Qihao Wen, Wenqi Fan, Dongsheng Li, Jiliang Tang, Caihua Shan. ICLR 2025 (Under Review).
 + [Unravelling the effect of electricity price on electric vehicle charging behavior: A case study in Shenzhen, China.](https://www.sciencedirect.com/science/article/abs/pii/S2210670724006607#:~:text=Impulse%20response%20analysis%20is%20conducted%20to%20unravel%20several%20noteworthy%20phenomena:) Kuang, Haoxuan, Xinyu Zhang, **Haohao Qu**, Linlin You, Rui Zhu, and Jun Li. Sustainable Cities and Society (2024): 105836.
 + [SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation.](https://arxiv.org/pdf/2409.01192) **Haohao Qu**, Yifeng Zhang, Liangbo Ning, Wenqi Fan, Qing Li. Preprint arXiv.
 + [A Survey of Mamba.](https://arxiv.org/pdf/2408.01129) **Haohao Qu**, Liangbo Ning, An Rui, Wenqi Fan, Tyler Derr, Hui Liu, Xin Xu, Qing Li. Preprint arXiv.
