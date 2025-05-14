@@ -24,8 +24,8 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 + Recommender Systems (RecSys)
 + Intelligent Transportation Systems (ITS)
 
-## Publications <a href='https://scholar.google.com/citations?user=XRAXqJgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
-
+## Selected Publications
++ [UrbanEV: An open benchmark dataset for urban electric vehicle charging demand prediction](https://www.nature.com/articles/s41597-025-04874-4) Han Li, **Haohao Qu**, Xiaojun Tan, Linlin You, Rui Zhu, Wenqi Fan. *Nature Scientific Data* 12, 523 (2025).
 + [How Do Large Language Models Understand Graph Patterns? A Benchmark for Graph Pattern Comprehension](https://arxiv.org/pdf/2410.05298) Xinnan Dai, **Haohao Qu**, Yifei Shen, Bohang Zhang, Qihao Wen, Wenqi Fan, Dongsheng Li, Jiliang Tang, Caihua Shan. *ICLR 2025*.
 + [ChatEV: Predicting electric vehicle charging demand as natural language processing](https://www.sciencedirect.com/science/article/abs/pii/S1361920924004279?via%3Dihub) **Haohao Qu**, Han Li, 
 Linlin You, Rui Zhu, Jinyue Yan, Paolo Santi, Carlo Ratti, Chau Yuen. *Transportation Research Part-D*.
