@@ -18,11 +18,7 @@ redirect_from:
 Welcome to my personal page! I am currently a Ph.D. student in the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Dr. Wenqi Fan (chief)](https://wenqifan03.github.io/) and [Prof. Qing Li (co)](https://www4.comp.polyu.edu.hk/~csqli/).
 
 ## Research Interest
-
-+ Large Language Models (LLMs)
-+ Graph Neural Networks (GNNs)
-+ Recommender Systems (RecSys)
-+ Intelligent Transportation Systems (ITS)
+Large Language Models (LLMs), Graph Neural Networks (GNNs), Recommender Systems (RecSys), Intelligent Transportation Systems (ITS)
 
 ## Selected Publications
 + [UrbanEV: An open benchmark dataset for urban electric vehicle charging demand prediction](https://www.nature.com/articles/s41597-025-04874-4) Han Li, **Haohao Qu**, Xiaojun Tan, Linlin You, Rui Zhu, Wenqi Fan. *Nature Scientific Data* 12, 523 (2025).
