@@ -85,7 +85,7 @@ author:
   bio              : "Large Language Models, Recommender Systems, Smart Cities"
   location         : "Hong Kong, China"
   employer         : "Dr. Wenqi Fan (Chief); Prof. Qing Li (Co)"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "nan"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=XRAXqJgAAAAJ"
   email            : "Haohao.qu@connect.polyu.hk"
   researchgate     :  "https://www.researchgate.net/profile/Haohao-Qu" # example: "https://www.researchgate.net/profile/yourprofile"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/Quhaoh233/"
+  github           : "Quhaoh233"
   google_plus      :
   keybase          :
   instagram        :
