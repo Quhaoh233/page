@@ -21,6 +21,9 @@ Welcome to my personal page! I am currently a Ph.D. student in the [Department o
 Large Language Models (LLMs), Graph Neural Networks (GNNs), Recommender Systems (RecSys), Intelligent Transportation Systems (ITS)
 
 ## Selected Publications
++ 2026 - [HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens.](https://openreview.net/forum?id=bCb5lly6hs#discussion) Yi Zhou, **Haohao Qu**, Yunqing LIU, Shanru Lin, Le Song, Wenqi Fan. *KDD 2026*.
++ 2026 - [Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations.](https://openreview.net/forum?id=y47Ro0VT38#discussion) Zhuohang Jiang, Yuxin Chen, Shijie Wang, **Haohao Qu**, Zhou Jindong, Wenqi Fan, Li Qing, Dongxu Liang, Jun Wang. *KDD 2026*.
++ 2026 - [SuperGlasses: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses.](https://openreview.net/forum?id=y47Ro0VT38#discussion) Zhuohang Jiang, Xu Yuan, **Haohao Qu**, Shanru Lin, Kanglong Liu, Wenqi Fan, Li Qing. *CVPR 2026 Findings*.
 + 2026 - [Diffusion Generative Recommendation with Continuous Tokens.](https://arxiv.org/abs/2504.12007) **Haohao Qu**, Shanru Lin, Yujuan Ding, Yiqi Wang, Wenqi Fan. *The 2026 ACM Web Conference*.
 + 2025 - [SSD4Rec: A Structured State Space Duality Model for Efficient Sequential Recommendation.](https://arxiv.org/pdf/2409.01192) **Haohao Qu***, Yifeng Zhang*, Liangbo Ning, Wenqi Fan, Qing Li. *ACM Trans. Inf. Syst. 44, 2, Article 29*.
 + 2025 - [TokenRec: Learning to Tokenize ID for LLM-based Generative Recommendation.](https://ieeexplore.ieee.org/document/11129873) **Haohao Qu**, Wenqi Fan, Zihuai Zhao, Qing Li. *IEEE Transactions on Knowledge and Data Engineering, vol. 37, no. 10, pp. 6216-6231*.
