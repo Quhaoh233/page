@@ -46,9 +46,13 @@ Linlin You, Rui Zhu, Jinyue Yan, Paolo Santi, Carlo Ratti, Chau Yuen. *Transport
 
 ## Education
 
++ &nbsp;&nbsp;&nbsp;Visiting student in Computer Science | <small>2026.02 - Now</small>
+<br>&nbsp;&nbsp;&nbsp; College of Computing and Data Science, Nanyang Technological University (NTU)
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Dacheng Tao](https://dr.ntu.edu.sg/entities/person/Tao-Dacheng) and [Prof. Yongcheng Jing](https://ycjing.github.io/)
+
 + &nbsp;&nbsp;&nbsp;Ph.D student in Computing | <small>2023.01 - Now</small>
 <br>&nbsp;&nbsp;&nbsp;Department of Computing (COMP), The Hong Kong Polytechnic University (PolyU)
-<br>&nbsp;&nbsp;&nbsp;Advisor: [Dr. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
+<br>&nbsp;&nbsp;&nbsp;Advisor: [Assistant Prof. Wenqi Fan](https://wenqifan03.github.io/) and [Prof. Qing Li](https://www4.comp.polyu.edu.hk/~csqli/)
 
 + &nbsp;&nbsp;&nbsp;M.Eng. in Transportation Planning and Management | <small>2019.09 - 2022.06</small>
 <br>&nbsp;&nbsp;&nbsp;School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
