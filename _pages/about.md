@@ -18,9 +18,11 @@ redirect_from:
 Welcome to my personal page! I am currently a Ph.D. student in the [Department of Computing](https://www.polyu.edu.hk/comp/) (COMP), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) (PolyU), under the supervision of [Dr. Wenqi Fan (chief)](https://wenqifan03.github.io/) and [Prof. Qing Li (co)](https://www4.comp.polyu.edu.hk/~csqli/).
 
 ## Research Interest
-Large Language Models (LLMs), Graph Neural Networks (GNNs), Recommender Systems (RecSys), Intelligent Transportation Systems (ITS)
+* PhD: Recommender Systems (RecSys), Large Language Models (LLMs), Agent Reasoning
+* MPhil: Graph Neural Networks (GNNs), Intelligent Transportation Systems (ITS)
 
-## Selected Publications
+## Recent Publications
++ 2026 - CastorTS: Causality-Guided Siamese Pretraining Model for Efficient Time Series Forecasting. Rui An, **Haohao Qu**, Wenqi Fan, Xuequn Shang, Qing Li. *ICDE 2027*. (Just Accept)
 + 2026 - [HD-Prot: A Protein Language Model for Joint Sequence-Structure Modeling with Continuous Structure Tokens.](https://openreview.net/forum?id=bCb5lly6hs#discussion) Yi Zhou, **Haohao Qu**, Yunqing LIU, Shanru Lin, Le Song, Wenqi Fan. *KDD 2026*.
 + 2026 - [Atomic Intent Reasoning: Bringing LLM Semantics to Industrial Cross-Domain Recommendations.](https://openreview.net/forum?id=y47Ro0VT38#discussion) Zhuohang Jiang, Yuxin Chen, Shijie Wang, **Haohao Qu**, Zhou Jindong, Wenqi Fan, Li Qing, Dongxu Liang, Jun Wang. *KDD 2026*.
 + 2026 - [SuperGlasses: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses.](https://openreview.net/forum?id=y47Ro0VT38#discussion) Zhuohang Jiang, Xu Yuan, **Haohao Qu**, Shanru Lin, Kanglong Liu, Wenqi Fan, Li Qing. *CVPR 2026 Findings*.
@@ -36,17 +38,18 @@ Linlin You, Rui Zhu, Jinyue Yan, Paolo Santi, Carlo Ratti, Chau Yuen. *Transport
 + [A Survey of Mamba.](https://arxiv.org/pdf/2408.01129) **Haohao Qu**, Liangbo Ning, An Rui, Wenqi Fan, Tyler Derr, Hui Liu, Xin Xu, Qing Li. *Preprint arXiv*.
 + 2024 - [FMGCN: Federated Meta Learning-augmented Graph Convolutional Network for EV Charging Demand Forecasting.](https://ieeexplore.ieee.org/abstract/document/10472318) Linlin You, Qiyang Chen, **Haohao Qu**, Rui Zhu, Jinyue Yan, Paolo Santi, Carlo Ratti. *IEEE Internet of Things Journal* (2024).
 + 2024 - [A physics-informed and attention-based graph learning approach for regional electric vehicle charging demand prediction.](https://arxiv.org/abs/2309.05259) **Haohao Qu**, Haoxuan Kuang, Jun Li, Linlin You*. Preprint arXiv:2309.05259; *IEEE TITS*, doi: 10.1109/TITS.2024.3401850.
+<!--
 + 2022 - [Reinforcement Learning Based Incentive Mechanism for Federated Meta Learning: A Game-Theoretic Perspective.](https://ieeexplore.ieee.org/abstract/document/10098009) Shenglv Zhang, Yuren Zhou, **Haohao Qu**, Yiting Zhu, Linlin You*. *Proceedings of the IEEE 34th International Conference on Tools with Artificial Intelligence (ICTAI 2022)*.
 + 2022 - [AFMeta: Asynchronous Federated Meta-learning with Temporally Weighted Aggregation.](https://ieeexplore.ieee.org/abstract/document/10189596) Sheng Liu, **Haohao Qu**, Qiyang Chen, Weitao Jian, Rui Liu, Linlin You*. *Proceedings of the 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (UIC 2022)*.
 + 2022 - [TWAFR-GRU: An Integrated Model for Real-time Charging Station Occupancy Prediction.](https://ieeexplore.ieee.org/abstract/document/10189531) Qiyang Chen, Sheng Liu, **Haohao Qu**, Rui Zhu, Linlin You*. *Proceedings of the 2022 IEEE Smartworld, Ubiquitous Intelligence & Computing, Scalable Computing & Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous & Trusted Vehicles (UIC 2022)*.
 + 2022 - [An Integrated Approach for the Near Real-Time Parking Occupancy Prediction.](https://ieeexplore.ieee.org/abstract/document/9997228) Jun Li, **Haohao Qu**, Linlin You*. *IEEE Transactions on Intelligent Transportation Systems*, 24(4), 3769-3778.
 + 2022 - [Adaptation and Learning to Learn (ALL): An Integrated Approach for Small-Sample Parking Occupancy Prediction.](https://www.mdpi.com/2227-7390/10/12/2039) **Haohao Qu**, Sheng Liu, Jun Li*, Yuren Zhou, Rui Liu. *Mathematics* 10.12 (2022): 2039.
 + 2022 - [Improving Parking Occupancy Prediction in Poor Data Conditions Through Customization and Learning to Learn.](https://link.springer.com/chapter/10.1007/978-3-031-10983-6_13) **Haohao Qu**, Sheng Liu, Zihan Guo, Linlin You, Jun Li*. *Proceedings of the 15th International Conference on Knowledge Science, Engineering and Management (KSEM 2022)*.
-     
+-->
 
 ## Education
 
-+ &nbsp;&nbsp;&nbsp;Visiting student in Computer Science | <small>2026.02 - Now</small>
++ &nbsp;&nbsp;&nbsp;Visiting student in Computer Science | <small>2026.02 - 2026.08</small>
 <br>&nbsp;&nbsp;&nbsp; College of Computing and Data Science, Nanyang Technological University (NTU)
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Prof. Dacheng Tao](https://dr.ntu.edu.sg/entities/person/Tao-Dacheng) and [Prof. Yongcheng Jing](https://ycjing.github.io/)
 
@@ -63,7 +66,10 @@ Linlin You, Rui Zhu, Jinyue Yan, Paolo Santi, Carlo Ratti, Chau Yuen. *Transport
 <br>&nbsp;&nbsp;&nbsp;Advisor: [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm) and [Associate Prof. Linlin You](https://ise.sysu.edu.cn/teacher/teacher02/1371451.htm)
 
 ## Working Experience
-
++ Internship | <small>2026.09 - Now</small> | <small>China</small> 
+ <br>Foundation Research Center, Marketing Recommendation, Corporate Development Group, Tencent 
+ <br>Advisor: Junwei Pan and Yankuan Liang
+ 
 + Research Assistant | <small>2022.08 - 2023.08</small> | <small>China</small> 
  <br>School of Intelligent Systems Engineering (ISE), Sun Yat-sen University (SYSU, 中山大学)
  <br>Advisor: [Prof. Xiaojun Tan](https://ise.sysu.edu.cn/teacher/teacher01/1400778.htm) and [Associate Prof. Jun Li](https://ise.sysu.edu.cn/teacher/teacher02/106489.htm)
